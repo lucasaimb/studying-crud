@@ -1,2 +1,2 @@
 # studying-crud
-To studying-crud with mean stack.
+Repositório para realizar os estudos de crud com a MEAN Stack.
